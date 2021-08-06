@@ -1,1 +1,1 @@
-# JS-issuse-Tracker
+# JS-issue-Tracker
